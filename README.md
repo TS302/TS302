@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tom
+# Hi, I'm Tom
 
 I’m a **Junior App Developer** with a strong focus on **Kotlin Multiplatform (KMP)** and modern cross-platform development.  
 In early 2024, I successfully completed my training as a Junior App Developer at **Syntax Institute** and have since been expanding my knowledge in the **Appvanced Experts Program**, with a particular emphasis on **Kotlin Multiplatform**.  
@@ -9,7 +9,7 @@ In early 2024, I successfully completed my training as a Junior App Developer at
 
 ---
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat) 
 ![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?logo=kotlin&logoColor=white&style=flat) 
@@ -28,16 +28,16 @@ In early 2024, I successfully completed my training as a Junior App Developer at
 
 ---
 
-## 📂 Featured Project
+## Featured Project
 
-### 🔖 SECO – NFC-based Asset Management  
+### SECO – NFC-based Asset Management  
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/TS302/PaperLessApp)
 
 SECO is my current project: an **NFC-powered asset management app** developed with **Kotlin Multiplatform**.  
 
-- 📱 **Cross-platform:** Shared business logic for **Android & iOS**  
-- 🛠️ **Tech stack:** KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication)  
-- 🎯 **Goal:** Simple assignment, management, and tracking of assets (vehicles, tools, keys, employees) via NFC tags  
+- **Cross-platform:** Shared business logic for **Android & iOS**  
+- **Tech stack:** KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication)  
+- **Goal:** Simple assignment, management, and tracking of assets (vehicles, tools, keys, employees) via NFC tags  
 
 
