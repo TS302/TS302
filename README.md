@@ -34,10 +34,10 @@ In early 2024, I successfully completed my training as a Junior App Developer at
 
 [![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/TS302/PaperLessApp)
 
-| Description | App Mockup |
-| ----------- | ---------- |
-| SECO is my current project: an **NFC-powered asset management app** developed with **Kotlin Multiplatform**. <br><br> - 📱 **Cross-platform:** Shared business logic for **Android & iOS** <br> - 🛠️ **Tech stack:** KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication) <br> - 🎯 **Goal:** Simple assignment, management, and tracking of assets (vehicles, tools, keys, employees) via NFC tags &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | <img src="https://github.com/TS302/TS302/blob/main/SECO_APP_MOCKUP_01.jpg?raw=true" width="120"/> |
+SECO is my current project: an **NFC-powered asset management app** developed with **Kotlin Multiplatform**.  
 
----
+- 📱 **Cross-platform:** Shared business logic for **Android & iOS**  
+- 🛠️ **Tech stack:** KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication)  
+- 🎯 **Goal:** Simple assignment, management, and tracking of assets (vehicles, tools, keys, employees) via NFC tags  
 
 
