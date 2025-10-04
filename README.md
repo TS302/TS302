@@ -1,11 +1,12 @@
-# Hi, I'm Tom
+---
+# Hallo, ich bin Tom  
 
-I’m a **Junior App Developer** with a strong focus on **Kotlin Multiplatform (KMP)** and modern cross-platform development.  
-In early 2024, I successfully completed my training as a Junior App Developer at **Syntax Institute** and have since been expanding my knowledge in the **Appvanced Experts Program**, with a particular emphasis on **Kotlin Multiplatform**.  
+Ich bin **Junior App Developer** mit einem starken Fokus auf **Kotlin Multiplatform (KMP)** und moderne Cross-Plattform-Entwicklung.  
+Anfang 2024 habe ich meine Ausbildung zum Junior App Developer am **Syntax Institute** erfolgreich abgeschlossen und erweitere seit **Januar 2025** mein Wissen im **Appvanced Experts Program**, mit besonderem Schwerpunkt auf **Kotlin Multiplatform**.  
 
-💡 My passion lies in designing **clean, scalable architectures** and connecting shared business logic with user-friendly UIs for **Android (Jetpack Compose)** and **iOS (SwiftUI)**. I combine a solid foundation in app development with hands-on experience in current technologies such as **KMP, Ktor, Koin, Coroutines, and Firebase (Firestore & Authentication)**.  
+💡 Meine Leidenschaft liegt im Entwerfen von **sauberen, skalierbaren Architekturen** und darin, gemeinsame Geschäftslogik mit benutzerfreundlichen UIs für **Android (Jetpack Compose)** und **iOS (SwiftUI)** zu verbinden. Ich kombiniere ein solides Fundament in der App-Entwicklung mit praktischer Erfahrung in aktuellen Technologien wie **KMP, Ktor, Koin, Coroutines und Firebase (Firestore & Authentication)**.  
 
-✨ I am highly motivated to keep learning, adapt quickly to new challenges, and contribute actively to team success. My goal is always to create applications that are not only functional but also efficient and enjoyable to use.  
+✨ Ich bin hoch motiviert, stetig zu lernen, mich schnell neuen Herausforderungen anzupassen und aktiv zum Teamerfolg beizutragen. Mein Ziel ist es, Anwendungen zu entwickeln, die nicht nur funktional, sondern auch effizient und angenehm in der Nutzung sind.  
 
 ---
 
@@ -28,16 +29,25 @@ In early 2024, I successfully completed my training as a Junior App Developer at
 
 ---
 
-## Featured Project
+## Mein Projekt  
 
-### SECO – NFC-based Asset Management  
+### SECO – NFC-basiertes Asset Management  
 
-[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/TS302/PaperLessApp)
+[![GitHub Repo](https://img.shields.io/badge/View_on_GitHub-181717?logo=github&logoColor=white)](https://github.com/TS302/PaperLessApp)  
 
-SECO is my current project: an **NFC-powered asset management app** developed with **Kotlin Multiplatform**.  
+SECO ist mein aktuelles Projekt: eine **NFC-gestützte Asset-Management-App**, entwickelt mit **Kotlin Multiplatform**.  
 
-- **Cross-platform:** Shared business logic for **Android & iOS**  
-- **Tech stack:** KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication)  
-- **Goal:** Simple assignment, management, and tracking of assets (vehicles, tools, keys, employees) via NFC tags  
+- **Cross-Plattform:** Gemeinsame Geschäftslogik für **Android & iOS**  
+- **Tech-Stack:** KMP · Ktor · Koin · Coroutines · SwiftUI · Jetpack Compose · Firebase (Firestore & Authentication)  
+- **Ziel:** Einfache Zuordnung, Verwaltung und Nachverfolgung von Assets (Fahrzeuge, Werkzeuge, Schlüssel, Mitarbeitende) über NFC-Tags
+
+---
+
+## Kontakt  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/tom-salih-737457388) 
+[![Appvanced Experts Program](https://img.shields.io/badge/Appvanced%20Experts%20Program-6C63FF?style=flat)](https://www.app-entwickler-werden.de)
+
+---
 
 
